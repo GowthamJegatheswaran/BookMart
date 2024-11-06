@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\views\\data\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|c:\\users\\admin\\source\\repos\\storesolutuion\\store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{798DE506-5940-47C1-82CF-57AEDB3D56A0}|Store\\Store.csproj|solutionrelative:store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Store\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Store\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:54:01.068Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Store\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T11:07:08.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Store\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Models\\Category.cs",
+              "RelativeToolTip": "Store\\Models\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T10:45:47.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Views\\Data\\Index.cshtml",
+              "RelativeDocumentMoniker": "Store\\Views\\Data\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Views\\Data\\Index.cshtml",
+              "RelativeToolTip": "Store\\Views\\Data\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-09T10:14:54.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Store\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\appsettings.json",
+              "RelativeToolTip": "Store\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T10:40:55.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "Store\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Controllers\\DataController.cs",
+              "RelativeToolTip": "Store\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T10:14:19.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Store\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "Store\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwBIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-08T10:52:02.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\StoreSolutuion\\Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAABMrAAAAAAAAAAAuwCg1AAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-31T09:51:48.763Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
